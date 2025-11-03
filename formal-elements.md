@@ -170,7 +170,7 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 * "cooperative with yourself puzzle"
 
 ### משחק דומה 1: Braid
-
+![Braid Screenshot](Braid.png)
 
 **קישור**: https://store.steampowered.com/app/26800/Braid/
 
@@ -187,7 +187,7 @@ Braid הוא משחק פאזל-פלטפורמר קלאסי שבו מכניקת �
 
 ### משחק דומה 2: The Swapper
 
-
+![The Swapper Screenshot](The-Swapper.png)
 **קישור**: https://store.steampowered.com/app/231160/The_Swapper/
 
 **תיאור הדמיון**:
@@ -203,13 +203,14 @@ Braid הוא משחק פאזל-פלטפורמר קלאסי שבו מכניקת �
 
 ### משחק דומה 3: Quantum Conundrum
 
+![Quantum Conundrum Screenshot](Quantum-Conundrum.png)
 **קישור**: https://store.steampowered.com/app/200010/Quantum_Conundrum/
 
 **תיאור הדמיון**:
 פאזל-פלטפורמר first-person שבו אתה במתקן ניסויים ופותר חידות עם מכניקות משתנות מציאות. האווירה והמבנה דומים מאוד (test chambers, AI narrator).
 
 **איך Thought Loop יהיה שונה?**
-* **2D במקום 3D**: Thought Loop הוא side-scroller, לא FPS - יותר נגיש ופחות מסובך לפתח
+* **דו מימד (2D) ולא תלת מימד (3D) יותר נגיש ופחות מסובך גם לפיתוח, יותר מפת side-scroller
 * **מכניקה ייחודית**: Quantum Conundrum משחק עם gravity וממדים, לא עם זמן ושכפולים
 * **פוקוס על תיאום עצמי**: המכניקה של "שיתוף פעולה עם עצמך" ייחודית ל-Thought Loop
 * **סגנון משחק**: פחות הומוריסטי וקרטוני, יותר מינימליסטי ומסתורי
