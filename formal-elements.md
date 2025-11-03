@@ -170,7 +170,7 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 * "cooperative with yourself puzzle"
 
 ### משחק דומה 1: Braid
-![Braid Screenshot](Braid.png)
+![Braid Screenshot](Braid.JPG)
 
 **קישור**: https://store.steampowered.com/app/26800/Braid/
 
@@ -187,7 +187,7 @@ Braid הוא משחק פאזל-פלטפורמר קלאסי שבו מכניקת �
 
 ### משחק דומה 2: The Swapper
 
-![The Swapper Screenshot](The-Swapper.png)
+![The Swapper Screenshot](The-Swapper.JPG)
 **קישור**: https://store.steampowered.com/app/231160/The_Swapper/
 
 **תיאור הדמיון**:
@@ -203,7 +203,7 @@ Braid הוא משחק פאזל-פלטפורמר קלאסי שבו מכניקת �
 
 ### משחק דומה 3: Quantum Conundrum
 
-![Quantum Conundrum Screenshot](Quantum-Conundrum.png)
+![Quantum Conundrum Screenshot](Quantum-Conundrum.JPG)
 **קישור**: https://store.steampowered.com/app/200010/Quantum_Conundrum/
 
 **תיאור הדמיון**:
