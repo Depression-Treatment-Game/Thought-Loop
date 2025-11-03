@@ -10,7 +10,7 @@
 
 המשחק מיועד למחשב רגיל (PC) עם פקדי מקלדת ועכבר, ובעתיד אפשר להרחיב לפלטפורמות נוספות.
 
-![Thought Loop Concept](https://placeholder-for-screenshot.com/thoughtloop-concept.png)
+![Thought Loop Concept](Thought Loop Concept.png)
 *תמונה: רובוט במתקן ניסויים עם שכפולים מרובים פועלים יחד*
 
 ---
@@ -19,13 +19,11 @@
 
 ### 1. שחקנים
 
-* **קהל יעד**: המשחק מיועד לשחקנים בגילאי 12+, חובבי משחקי פאזל ופלטפורמר שאוהבים אתגרים לוגיים. מתאים למי שאוהב משחקים כמו Portal, Braid או The Witness. דורש חשיבה מראש ותכנון, אבל לא דורש כישורי פעולה מהירים במיוחד.
+* **קהל יעד**: המשחק מיועד לכל מי שרוצה להעביר את הזמן אם  קצת מחשבה, חובבי משחקי פאזל ופלטפורמר שאוהבים אתגרים לוגיים. מתאים למי שאוהב משחקים כמו Portal, Braid או The Witness. דורש חשיבה מראש ותכנון, אבל לא דורש כישורי פעולה מהירים במיוחד.
 
 * **מספר שחקנים**: שחקן יחיד (Single Player)
 
 * **דפוסי אינטראקציה**: אין אינטראקציה בין שחקנים - זהו משחק סולו שבו השחקן מתמודד עם חידות ומכשולים של המערכת.
-
-![Target Audience](https://placeholder-for-screenshot.com/target-audience.png)
 
 ### 2. יעדים
 
@@ -38,8 +36,6 @@
 * בתחילת כל שלב תופיע הודעה קצרה על המסך המסבירה את המשימה ("הגע ליציאה", "הפעל את שני המתגים")
 * סימון ויזואלי ברור של היציאה/היעד בכל חדר
 * מערכת רמזים עדינה שמתגלה אם השחקן תקוע (אחרי מספר ניסיונות)
-
-![Goals Display](https://placeholder-for-screenshot.com/goals-display.png)
 
 ### 3. תהליכים
 
@@ -59,7 +55,6 @@
 
 Tutorial אינטגרטיבי - השלבים הראשונים מלמדים באופן טבעי. הודעות קצרות על המסך כשנתקלים במכניקה חדשה. התקדמות הדרגתית במורכבות - כל שלב מוסיף מעט מורכבות.
 
-![Process Flow](https://placeholder-for-screenshot.com/process-flow.png)
 
 ### 4. חוקים
 
@@ -81,8 +76,6 @@ Tutorial אינטגרטיבי - השלבים הראשונים מלמדים בא�
 **למידת החוקים:**
 
 Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מתג נדלק באדום כשפעיל, דלת נפתחת עם אנימציה). הודעות שגיאה ידידותיות ("שכפולים לא יכולים לנגוע זה בזה!"). אפשרות לראות הדגמה של פתרון אפשרי אם השחקן תקוע.
-
-![Rules Illustration](https://placeholder-for-screenshot.com/rules.png)
 
 ### 5. משאבים
 
@@ -112,7 +105,6 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 
 טיימר גדול על המסך מציג את הזמן שנותר בלולאה. מונה שכפולים בפינת המסך ("3/5 Clones Used"). בר אנרגיה מתחת לרובוט. אייקונים של אבילויות זמינות בתחתית המסך עם מקשי קיצור.
 
-![Resources UI](https://placeholder-for-screenshot.com/resources-ui.png)
 
 ### 6. עימותים
 
@@ -133,7 +125,6 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 * פרפקציוניזם: האם להשלים שלב במינימום לולאות (אתגר) או פשוט להתקדם?
 * ניסוי וטעייה מול חשיבה: האם לנסות מיד או לחשוב קודם?
 
-![Conflicts](https://placeholder-for-screenshot.com/conflicts.png)
 
 ### 7. גבולות
 
@@ -152,7 +143,6 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 * **עניין**: כל שלב מציג אתגר חדש או וריאציה על מכניקות קיימות - לא משעמם
 * **הכוונה**: Visual cues (כמו חצים, צבעים, תאורה) מכוונים את השחקן לאן ללכת ומה חשוב
 
-![Map Design](https://placeholder-for-screenshot.com/map-design.png)
 
 ### 8. תוצאות
 
@@ -172,8 +162,6 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 * לא שיתופי: single player בלבד
 * משחק של חשיבה ואתגר אישי: השחקן מתחרה עם עצמו לשיפור ביצועים
 
-![Results Screen](https://placeholder-for-screenshot.com/results.png)
-
 ---
 
 ## סקירת משחקים קיימים
@@ -187,7 +175,6 @@ Tutorial מובנה בשלבים הראשונים. Visual feedback ברור (מ�
 
 ### משחק דומה 1: Braid
 
-![Braid Screenshot](https://placeholder-for-screenshot.com/braid.png)
 
 **קישור**: https://store.steampowered.com/app/26800/Braid/
 
@@ -204,7 +191,6 @@ Braid הוא משחק פאזל-פלטפורמר קלאסי שבו מכניקת �
 
 ### משחק דומה 2: The Swapper
 
-![The Swapper Screenshot](https://placeholder-for-screenshot.com/swapper.png)
 
 **קישור**: https://store.steampowered.com/app/231160/The_Swapper/
 
@@ -220,8 +206,6 @@ Braid הוא משחק פאזל-פלטפורמר קלאסי שבו מכניקת �
 ---
 
 ### משחק דומה 3: Quantum Conundrum
-
-![Quantum Conundrum Screenshot](https://placeholder-for-screenshot.com/quantum.png)
 
 **קישור**: https://store.steampowered.com/app/200010/Quantum_Conundrum/
 
