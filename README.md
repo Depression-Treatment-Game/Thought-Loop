@@ -1,4 +1,4 @@
-<div lang='he'>
+<div dir='rtl' lang='he'>
 
 # Thought Loop - לולאת המחשבה
 
@@ -9,6 +9,6 @@
 **קהל יעד:** גילאי 12+, חובבי משחקי חשיבה כמו Portal, Braid, The Witness
 
 ---
-[רכיבים רשמיים](Formal_Elements\formal-elements.md)
+[רכיבים רשמיים](Formal_Elements/formal-elements.md)
 חהברי הצוות: חנן הלמן
 </div>
