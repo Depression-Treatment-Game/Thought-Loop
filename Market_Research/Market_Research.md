@@ -733,7 +733,7 @@
 - פלטפורמות משחקים (Steam, Itch.io)
 - - הרצאת אורח מחברת Beach Bum
 -  כלי AI לניתוח ראשוני ומציאת מקורות:
--   שיחה ועזרה עם איסוך הנתונים והצגה שלהם [Gemini](https://gemini.google.com/share/a8e9d3121c0a), [ChatGPT](https://chatgpt.com/share/69105965-74f0-8004-b26e-3e70b71e8919) 
+-   שיחה ועזרה עם איסוף הנתונים והצגה שלהם [Gemini](https://gemini.google.com/share/a8e9d3121c0a), [ChatGPT](https://chatgpt.com/share/69105965-74f0-8004-b26e-3e70b71e8919) 
 ---
 
 </div>
