@@ -1,3 +1,5 @@
+<h1 align="right">Level Design – Thought Loop</h1>
+
 # Level Design – Thought Loop (Time-Clone Puzzle Platformer)
 
 מסמך זה מתאר את תכנון הרמות עבור המשחק, ברמת פירוט מספקת כך שמפתח יוכל לבנות את הרמות בפועל.  
@@ -26,8 +28,8 @@
 חיצים לתנועה — רווח לקפיצה
 
 תמונה להמחשה:
-![tutorial 0](tutorial-1.png)
 
+<img src="tutorial-1.png" width="300">
 
 ---
 
@@ -45,7 +47,7 @@
 - המרחק בין הכפתור לדלת קצר מדי כדי להספיק ללחוץ ולרוץ בזמן — מה שמכריח שימוש בשכפול הראשון לתיאום.
 
 תמונה להמחשה:
-![tutorial 1](tutorial-2.png)
+<img src="tutorial-2.png" width="300">
 
 ---
 
@@ -58,7 +60,7 @@
 
 **אתגר:**  
 - תכנון הזמן כך שהשכפול יישאר על כפתור אחד בזמן שהשחקן מגיע לכפתור השני.
-![level 1](level-1.png)
+<img src="level-1.png" width="300">
 
 ---
 
@@ -77,7 +79,7 @@
   - גם לתזמן מעבר מול אויב זז.
 
 תמונה להמחשה:
-![level 2](level-2.png)
+<img src="level-2.png" width="300">
 
 ---
 
@@ -97,7 +99,7 @@
 - תוך שמירה על כך שאף דמות לא תיגע בשנייה.
 
 תמונה להמחשה:
-![level 3](level-3.png)
+<img src="level-3.png" width="300">
 
 ---
 
@@ -119,6 +121,6 @@
 
 תמונה להמחשה:
 
-![level 4](level-4.png)
+<img src="level-4.png" width="300">
 
 
